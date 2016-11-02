@@ -1,0 +1,29 @@
+.footer-wrapper {
+  .social-links {
+    position: relative;
+    z-index: 10;
+    margin-top:2rem;
+    h2, h3{
+      font-family: $h-secondary;
+      text-transform: uppercase;
+      color:#000;
+      font-size:2rem;
+    }
+    ul {
+      display: inline-block;
+    }
+    li {
+      margin:0 0.5rem;
+      float: left;
+      a {
+        font-size:2rem;
+        color:#000;
+      }
+    }
+  }  
+  padding:1rem 0;
+  text-align: center;
+  a {
+    color:#000;
+  }
+}

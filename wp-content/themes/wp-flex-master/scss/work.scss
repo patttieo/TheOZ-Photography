@@ -1,0 +1,14 @@
+.work-wrapper {
+  .row {
+    margin:1rem 0;
+    a {
+      img {
+        height: auto;
+        width: auto;
+        min-width: 100%;
+        min-height: 100%;
+        max-width: 100%;
+      }      
+    }
+  }
+}
